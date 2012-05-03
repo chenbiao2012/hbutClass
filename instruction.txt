@@ -1,0 +1,8 @@
+包的说明
+1、activity放Activity的子类
+2、application放Application的子类（已经建立，无需再增加）
+3、service放Service的子类
+4、beans放基本数据类型
+5、util放操作工具类
+
+ingnore.txt这个文件是占位用的，可以不用管，如果在编译过程中遇到问题，可以将此文件删除
